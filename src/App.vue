@@ -19,9 +19,9 @@ export default {
     return {
       qoldi: 0,
       bolinma: 0,
-      son: '',
-      daraja: '',
-      boluvchi: '',
+      son: 0,
+      daraja: 0,
+      boluvchi: 0,
       // son: 0,
       // daraja: 0,
       // boluvchi: 0
