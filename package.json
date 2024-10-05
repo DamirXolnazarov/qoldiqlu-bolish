@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "remix": "^2.12.1",
     "vue": "^3.4.29"
   },
   "devDependencies": {
